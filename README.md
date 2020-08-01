@@ -16,7 +16,7 @@ python 3.8.5
 
 Environments under Windows 10 pro is tested.
 
-## contact
+## Contact
 My twitter account : @dnJJ_tensor
 
 I long to get feedback from anyone because I am a not professional engineer. I'm a university student, so There are a lot of things I must learn.
