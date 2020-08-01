@@ -9,10 +9,14 @@ Euler Explict method is adopted for this Numerical simulation. First of all, mai
 
 ## Requirement
 macOS Catalina 10.15.6
+
 gfortran 10.1.10
+
 python 3.8.5
+
 Environments under Windows 10 pro is tested.
 
 ## contact
 My twitter account : @dnJJ_tensor
+
 I long to get feedback from anyone because I am a not professional engineer. I'm a university student, so There are a lot of things I must learn.
