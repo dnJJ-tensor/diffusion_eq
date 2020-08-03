@@ -1,5 +1,5 @@
 # diffusion eq
-This program was created to simulate two deminsional heat diffusion phenomena whichi is governed by equation below.
+This program was created to simulate two deminsional heat diffusion phenomena whichi is governed by equation below. 
 <image src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;T}{\partial&space;t}&space;=&space;\kappa\left(\frac{\partial^{2}T}{\partial&space;x^2}&plus;\frac{\partial^{2}T}{\partial&space;y^2}\right)">
 
 ## Overview
