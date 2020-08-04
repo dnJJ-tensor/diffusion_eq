@@ -5,7 +5,7 @@ This program was created to simulate two dimensional heat diffusion phenomena wh
 
 ## Overview
 ### Outline
-This program was created to simulate two dimensional heat diffusion phenomena by compiling python(pandas DataFrame, numpy matplotlib) and Fortran90/95 with f2py. Input, output and visualization of data is executed by Python program (main.py). Fortran subroutine  undertakes simulation itself.  
+This program was created to simulate two dimensional heat diffusion phenomena by compiling python(pandas DataFrame, numpy, matplotlib) and Fortran90/95 with f2py. Input, output and visualization of data is executed by Python program (main.py). Fortran subroutine  undertakes simulation itself.  
 ### Methodology of simulation 
 #### discretization and variable
 comming soon.
