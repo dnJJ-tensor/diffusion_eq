@@ -65,8 +65,8 @@ nx, ny = Tinit.shape
 print(nx, ny)
 
 #シミュレーションに必要な各種パラメータの設定
-lx = 1
-ly = 1
+lx = 1.0
+ly = 1.0
 kappa = 0.0040
 dt = 0.0060
 dx = lx / (nx - 1)
