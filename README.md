@@ -18,5 +18,3 @@ macOS Catalina 10.15.6
 gfortran 10.1.10
 
 python 3.8.5
-
-Environments under Windows 10 pro is tested.
